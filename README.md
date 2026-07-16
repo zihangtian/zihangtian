@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Zihang Tian👨‍💻</h1>
-<h3 align="center">A PH.D. Candi of RUC GSAI</h3>
 
+<h3 align="center">
+Ph.D. Candidate in Artificial Intelligence at RUC GSAI
+</h3>
 
+<p align="center">
+🎓 B.S. in Artificial Intelligence from Gaoling School of Artificial Intelligence, Renmin University of China<br>
+🎓 Ph.D. Candidate at Gaoling School of Artificial Intelligence, Renmin University of China
+</p>
 
-<p align="center">  How to reach me 📫 zihangtian@ruc.edu.cn
+<p align="center">
+Research interests: Large Language Models, Agentic AI, Reinforcement Learning
+</p>
 
+<p align="center">
+How to reach me 📫 zihangtian@ruc.edu.cn
+</p>
 <p align="center"><img width="300" height="200" src="https://github.com/zihangtian/zihangtian/blob/main/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"/> </div>
 
 <h3 align="center">Languages and Tools:</h3>
